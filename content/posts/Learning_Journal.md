@@ -4,14 +4,19 @@ date: 2020-08-21T00:00:00-04:00
 draft: false
 ---
 
-Then, below the "---" line, you may write your post. You may write whatever and however much you want, as long as you report on how you demonstrated your progress on each of the five "I Can" statements for this course:
+My Learning report for the first week of ICT 302 Content Management class:
 
 **I can identify and define key concepts in (web) content management.**
+The main key concept I learn this week is the repository. The GitHub repository stores the important coding files and folders which runs the website's appearance and function   
 
-I can describe and compare content management systems.
+**I can describe and compare content management systems.**
+We haven't done anything related to comparing contentent management systems since we are learning only Hugo for now. 
 
-I can manage content using established workflows.
+**I can manage content using established workflows.**
+I believe that we are in the infancy stage of learning to establish workflow. In my learning experiance, I follow step-by-step in launching the website by using both GitHub and Netlify. I also fix the sample post error by learning to edit files in GitHub repository.  
 
-I can identify and employ technologies related to content management.
+**I can identify and employ technologies related to content management.**
+I have a basic understanding about Hugo content mangement system after completing assignments. 
 
-I can find and use resources for self-directed learning.
+**I can find and use resources for self-directed learning.**
+While creating my first learning report here, I have learned to format text by making some sentences bold which is evident here. I have found this useful [GitHub guide](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax) while researching on my own. 
