@@ -1,6 +1,6 @@
 ---
 title: "Learning Report for Module 1"
-date: 2020-08-21T00:00:00-04:00
+date: 2020-08-22T00:00:00-04:00
 draft: false
 ---
 
