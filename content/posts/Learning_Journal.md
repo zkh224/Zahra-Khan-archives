@@ -4,7 +4,7 @@ date: 2020-08-21T00:00:00-04:00
 draft: false
 ---
 
-My Learning report for the first week of ICT 302 Content Management class:
+My learning report for the first week of ICT 302 Content Management class:
 
 **I can identify and define key concepts in (web) content management.**
 
