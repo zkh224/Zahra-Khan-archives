@@ -6,7 +6,7 @@ draft: false
 
 Then, below the "---" line, you may write your post. You may write whatever and however much you want, as long as you report on how you demonstrated your progress on each of the five "I Can" statements for this course:
 
-I can identify and define key concepts in (web) content management.
+**I can identify and define key concepts in (web) content management.**
 
 I can describe and compare content management systems.
 
