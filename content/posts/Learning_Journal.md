@@ -23,7 +23,7 @@ I believe that we are in the infancy stage of learning to establish workflow. In
 
 **I can identify and employ technologies related to content management.**
 
-I have a basic understanding about Hugo content mangement system after completing assignments. 
+I have a basic understanding about Hugo content mangement system after completing assignments. I learn that Netlify and GitHub are seperate from Hugo but are interconnected since they are in the same content mangement system. 
 
 
 **I can find and use resources for self-directed learning.**
