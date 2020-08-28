@@ -5,7 +5,7 @@ theme = "ananke"
 
 [params]
 [[menu.main]]
-name = "Introduction"
+name = "About"
 weight = 1
 url = "https://inspiring-kilby-bb1bde.netlify.app/introduction//"
 
