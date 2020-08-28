@@ -8,3 +8,4 @@ Hi! My name is Zahra and I am a senior college student. I am majoring in Informa
 My hobbies are painting, jewelry making, and playing keyboard. I made bracelets and earrings during my quarantine summer break. Watercolor and acrylic are my favorite medium for painting. My recent painting is a mix of watercolor and color pencils using wooden stamp tools. The last song I played on my keyboard is "Watermelon Sugar" by Harry Styles.
 
 ![A profile picture of Zahra](https://inspiring-kilby-bb1bde.netlify.app/me1.jpg)
+![A painting of three elephants](https://inspiring-kilby-bb1bde.netlify.app/painting.jpg)
