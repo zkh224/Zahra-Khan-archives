@@ -34,3 +34,8 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[params]
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "https://inspiring-kilby-bb1bde.netlify.app/introduction//"
