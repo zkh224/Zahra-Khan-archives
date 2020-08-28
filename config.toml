@@ -3,6 +3,12 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
 
+[params]
+[[menu.main]]
+name = "Introduction"
+weight = 1
+url = "https://inspiring-kilby-bb1bde.netlify.app/introduction//"
+
 [build]
 publish = "public"
 command = "hugo --gc --minify"
@@ -34,8 +40,4 @@ HUGO_VERSION = "0.74.3"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[params]
-[[menu.main]]
-name = "Introduction"
-weight = 1
-url = "https://inspiring-kilby-bb1bde.netlify.app/introduction//"
+
