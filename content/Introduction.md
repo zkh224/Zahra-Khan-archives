@@ -3,7 +3,7 @@ title: "Introduction"
 date: 2020-08-28T00:00:00-04:00
 draft: false
 ---
-**Hi! My name is Zahra and I am a senior ICT student.** My degree specialization is in Technology Management. I do not have any experience in content management, but I have learned some web design skills from the web design intro class I took back in my community college. 
+**Hi! My name is Zahra and I am a senior ICT student.** My degree specialization is in Technology Management. I do not have any experience in content management, but I have learned some web design skills from the web design intro class I took back in a community college. 
 
 My main hobbies are....
 * painting,
