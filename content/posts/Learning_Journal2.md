@@ -23,6 +23,7 @@ I have learned to manage image content in GitHub repository. I did the step-by-s
 
 **I can identify and employ technologies related to content management.**
 
+I have understand better about how HTML are interrelated to the content management system. Some HTML elements like <table> works on the Markdown coding which makes it easy to add an extra style that is otherwise not available for the Markdown element. 
 
 
 **I can find and use resources for self-directed learning.**
