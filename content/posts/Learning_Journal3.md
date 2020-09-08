@@ -8,7 +8,7 @@ My learning report for the third week of ICT 302 Content Management class:
 
 **I can identify and define key concepts in (web) content management.**
 
-I can identity different tech roles in the content management team which helps me userstand better about the workplace environment. I have learned the distinctive responsibilities in each tech role like site planner and back-end developer. 
+I can identity different tech roles in the content management team that provides me insights about the workplace environment. I have learned the distinctive responsibilities in each tech role such as site planner and back-end developer. 
 
 
 **I can describe and compare content management systems.**
