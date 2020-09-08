@@ -18,7 +18,7 @@ We didn't learn about content management systems outside of the Hugo system yet.
 
 **I can manage content using established workflows.**
 
-Established workflow is the main topic of the class this week. I have a better understanding of how the workflow works in a content management context. I used to have a vague idea about the concept of workflow. Now I have learned that workflow requires a team of different roles (like a developer, administrator, editor, etc) in order to achieve the project goal. 
+Established workflow is the main topic of the class this week. I have a better understanding of the process of workflow in the content management system context. I used to have a vague idea about the concept of workflow. Now I have learned that workflow requires a team of different roles (like a developer, administrator, editor, etc) to achieve the project goal. 
 
 
 **I can identify and employ technologies related to content management.**
