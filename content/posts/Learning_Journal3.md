@@ -11,9 +11,11 @@ My learning report for the third week of ICT 302 Content Management class:
 I can identity different tech roles in the content management team that provides me insights about the workplace environment. I have learned the distinctive responsibilities in each tech role such as site planner and back-end developer. 
 
 
+
 **I can describe and compare content management systems.**
 
 We didn't learn about content management systems outside of the Hugo system yet. 
+
 
 
 **I can manage content using established workflows.**
@@ -21,9 +23,11 @@ We didn't learn about content management systems outside of the Hugo system yet.
 Established workflow is the main topic of the class this week. I have a better understanding of the process of workflow in the content management system context. I used to have a vague idea about the concept of workflow. Now I have learned that workflow requires a team of different roles (like a developer, administrator, editor, etc) to achieve the project goal. 
 
 
+
 **I can identify and employ technologies related to content management.**
 
 We have learned about using Microsoft Teams as a communication and planner tool for our team project. Using that application helps me to communicate with my team members and organize our project goals effectively.
+
 
 
 **I can find and use resources for self-directed learning.**
