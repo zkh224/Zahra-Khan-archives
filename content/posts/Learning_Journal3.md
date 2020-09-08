@@ -8,7 +8,7 @@ My learning report for the third week of ICT 302 Content Management class:
 
 **I can identify and define key concepts in (web) content management.**
 
-I can identity different job roles in the content management team. I have a better clarification on how job roles work in a workplace environment. I can identifying the distinctive responsibilieis in each tech role like site planner and back-end developer. 
+I can identity different tech roles in the content management team which helps me userstand better about the workplace environment. I have learned the distinctive responsibilities in each tech role like site planner and back-end developer. 
 
 
 **I can describe and compare content management systems.**
@@ -18,7 +18,7 @@ We didn't learn about content management systems outside of the Hugo system yet.
 
 **I can manage content using established workflows.**
 
-Established workflow is the main topic of the class this week. I have a better understanding of how the workflow works in a content management context. I used to have a vague idea about the concept of workflow. Now I learn that workflow requires the team to have roles of different duties (like a developer, administrator, editor, etc) in order to achieve the project goal. 
+Established workflow is the main topic of the class this week. I have a better understanding of how the workflow works in a content management context. I used to have a vague idea about the concept of workflow. Now I have learned that workflow requires a team of different roles (like a developer, administrator, editor, etc) in order to achieve the project goal. 
 
 
 **I can identify and employ technologies related to content management.**
