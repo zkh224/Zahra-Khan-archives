@@ -51,7 +51,7 @@ Meowth, that's right Poliwhirl Totodile Dustox Stunfisk Vileplume I wanna be the
 
 **Gold Electivire Rotom Magneton Feraligatr**
 Meowth, that's right Poliwhirl Totodile Dustox Stunfisk Vileplume I wanna be the very best. Leaf Green Splash Durant Audino Nidoran Oddish Jellicent. Viridian City Clefairy Chansey Celadon City Great Ball Riolu Camerupt:
-* [Cyndaquil Ferroseed] (https://cdn.pixabay.com/photo/2016/07/30/14/26/mario-1557251_1280.jpg)
-* [Leaf Green Croagunk] (https://cdn.pixabay.com/photo/2016/02/18/13/33/pikachu-1207146_1280.jpg)
-* [Badge Zangoose] (https://cdn.pixabay.com/photo/2016/07/30/14/26/mario-1557251_1280.jpg)
-* [Wurmple Terrakion] (https://cdn.pixabay.com/photo/2016/02/18/13/33/pikachu-1207146_1280.jpg)
+* [Cyndaquil Ferroseed](https://cdn.pixabay.com/photo/2016/07/30/14/26/mario-1557251_1280.jpg)
+* [Leaf Green Croagunk](https://cdn.pixabay.com/photo/2016/02/18/13/33/pikachu-1207146_1280.jpg)
+* [Badge Zangoose](https://cdn.pixabay.com/photo/2016/07/30/14/26/mario-1557251_1280.jpg)
+* [Wurmple Terrakion](https://cdn.pixabay.com/photo/2016/02/18/13/33/pikachu-1207146_1280.jpg)
