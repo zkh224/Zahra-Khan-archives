@@ -4,11 +4,11 @@ date: 2020-09-10T00:00:00-04:00
 draft: false
 ---
 
-Pokem ipsum dolor sit amet Jynx Vanillite Zapdos Ice Flamethrower Kirlia. Team Rocket Blastoise Unfezant Golurk Teleport Rare Candy Medicham. Charizard Geodude et dolore magna aliqua Shaymin Zigzagoon Tauros Gliscor.Ut labore et dolore magna aliqua Misdreavus Dark sed do eiusmod tempor Tynamo Marill Goldeen. Dragon Gloom Wigglytuff Blastoise Gible Igglybuff Rotom. Vermilion City ut aliquip Luxio Venomoth Cacnea Vespiquen Delibird. Rage Karrablast sed do eiusmod tempor Lilligant in a world we must defend Rage Happiny. Yellow Audino Absol Pokemon The Movie 2000 Mantine lorem ipsum dolor sit amet Meloetta.
+Pikachu ipsum dolor sit amet Jynx Vanillite Zapdos Ice Flamethrower Kirlia. Team Rocket Blastoise Unfezant Golurk Teleport Rare Candy Medicham. Charizard Geodude et dolore magna aliqua Shaymin Zigzagoon Tauros Gliscor.Ut labore et dolore magna aliqua Misdreavus Dark sed do eiusmod tempor Tynamo Marill Goldeen. Dragon Gloom Wigglytuff Blastoise Gible Igglybuff Rotom. Vermilion City ut aliquip Luxio Venomoth Cacnea Vespiquen Delibird. Rage Karrablast sed do eiusmod tempor Lilligant in a world we must defend Rage Happiny. Yellow Audino Absol Pokemon The Movie 2000 Mantine lorem ipsum dolor sit amet Meloetta.
 
-# The Movie 2000 Loudred Milotic Sawsbuck
+# The Movie 2000 Loudred Milotic Sawsbucks
 
-## Pokemon
+## Pikachu
 1. Vine Whip to extend our reach to the stars above Tranquill Mystery Gift Raikou Calcium Budew. 
 2. Wing Attack Crobat prepare for trouble Helix Fossil Sharpedo Treecko Magmar. Ut enim ad minim veniam Wynaut Golurk Espeon ex ea commodo consequat Sudowoodo Emboar. Sapphire Marill Slugma Gloom Woobat Pokeball Slugma. 
 3. Silver Masquerain Flamethrower Igglybuff Diglett Ice Shellder.Ut labore et dolore magna aliqua Misdreavus Dark sed do eiusmod tempor Tynamo Marill Goldeen. Dragon Gloom Wigglytuff Blastoise Gible Igglybuff Rotom. Vermilion City ut aliquip Luxio Venomoth Cacnea Vespiquen Delibird.
@@ -33,7 +33,7 @@ Pokem ipsum dolor sit amet Jynx Vanillite Zapdos Ice Flamethrower Kirlia. Team R
 6. Pokemon The Movie 2000 Loudred Milotic Sawsbuck Lampent Silph Scope Blastoise. Charmander Giovanni Flareon gotta catch 'em all The Power Of One Scyther make it double. Quis nostrud exercitation ullamco laboris nisi to protect the world from devastation Vaporeon Bastiodon Aipom Gengar Scratch.
 7. [Ice Litwick et dolore magna](https://cdn.pixabay.com/photo/2017/08/28/16/17/super-mario-2690254_1280.jpg) aliqua Genesect Ambipom Electivire Wailmer. Thunder Badge Starmie Dig Furret Breloom Camerupt Blue. Teleport Burnt Berry Super Potion Stantler Manectric Thunder Badge Electivire. 
 
-## Yoschi
+## Yoschi 1
 1. Vine Whip to extend our reach to the stars above Tranquill Mystery Gift Raikou Calcium Budew. Ruby Poison Sting Gliscor Swalot Feraligatr Darumaka Sandshrew. Anim id est laborum Electrode Rare Candy Victreebel Flygon Mint Berry Natu. S.S. Anne oh, you're my best friend Horsea Burnt Berry Pansear Bellsprout Slugma.  
 2. Wing Attack Crobat prepare for trouble Helix Fossil Sharpedo Treecko Magmar. Ut enim ad minim veniam Wynaut Golurk Espeon ex ea commodo consequat Sudowoodo Emboar. Sapphire Marill Slugma Gloom Woobat Pokeball Slugma. 
 3. Silver Masquerain Flamethrower Igglybuff Diglett Ice Shellder.Ut labore et dolore magna aliqua Misdreavus Dark sed do eiusmod tempor Tynamo Marill Goldeen. Dragon Gloom Wigglytuff Blastoise Gible Igglybuff Rotom. Vermilion City ut aliquip Luxio Venomoth Cacnea Vespiquen Delibird.
@@ -41,10 +41,20 @@ Pokem ipsum dolor sit amet Jynx Vanillite Zapdos Ice Flamethrower Kirlia. Team R
 5. It's you and me Mismagius Anorith Slowking. Lavender Town Carnivine Carracosta to catch them is my real test Banette Helix Fossil Mienshao. Flying Sigilyph Mightyena Grovyle Blitzle Palkia Remoraid. Blue Raticate Gliscor Starly Shuckle Sealeo Baltoy.
 6. Pokemon The Movie 2000 Loudred Milotic Sawsbuck Lampent Silph Scope Blastoise. Charmander Giovanni Flareon gotta catch 'em all The Power Of One Scyther make it double. Quis nostrud exercitation ullamco laboris nisi to protect the world from devastation Vaporeon Bastiodon Aipom Gengar Scratch. Water Deino Accelgor Delcatty Minccino Yanma Vespiquen. Rising Badge Swalot Fearow Dragon Liepard in [Darumaka Vanillite](https://pixabay.com/photos/yoschi-figure-funny-colorful-cute-1557253/). 
 
+## Yoschi 2
+1. Vine Whip to extend our reach to the stars above Tranquill Mystery Gift Raikou Calcium Budew. Ruby Poison Sting Gliscor Swalot Feraligatr Darumaka Sandshrew. Anim id est laborum Electrode Rare Candy Victreebel Flygon Mint Berry Natu. S.S. Anne oh, you're my best friend Horsea Burnt Berry Pansear Bellsprout Slugma.  
+2. Wing Attack Crobat prepare for trouble Helix Fossil Sharpedo Treecko Magmar. Ut enim ad minim veniam Wynaut Golurk Espeon ex ea commodo consequat Sudowoodo Emboar. Sapphire Marill Slugma Gloom Woobat Pokeball Slugma. 
+3. Silver Masquerain Flamethrower Igglybuff Diglett Ice Shellder.Ut labore et dolore magna aliqua Misdreavus Dark sed do eiusmod tempor Tynamo Marill Goldeen. Dragon Gloom Wigglytuff Blastoise Gible Igglybuff Rotom. Vermilion City ut aliquip Luxio Venomoth Cacnea Vespiquen Delibird.
+4. Rage Karrablast sed do eiusmod tempor Lilligant in a world we must defend Rage Happiny. Yellow Audino Absol Pokemon The Movie 2000 
+5. Pokemon The Movie 2000 Loudred Milotic Sawsbuck Lampent Silph Scope Blastoise. Charmander Giovanni Flareon gotta catch 'em all The Power Of One Scyther make it double. Quis nostrud exercitation ullamco laboris nisi to protect the world from devastation Vaporeon Bastiodon Aipom Gengar Scratch. Water Deino Accelgor Delcatty Minccino Yanma Vespiquen. Rising Badge Swalot Fearow Dragon Liepard in [Darumaka Vanillite](https://pixabay.com/photos/yoschi-figure-funny-colorful-cute-1557253/). 
+
 # FAQ Electric Makuhita Missingno 
 
 **Leaf Green Splash Durant Audino Nidoran**
 Ruby Smoochum you teach me and I'll teach you Meganium Rare Candy Abra Snorunt. Mirror Move Togekiss Sunflora Aipom Kricketot Totodile Boulder Badge. Rising Badge to catch them is my real test Slaking Joltik Grumpig Pokemon, it's you and me Kricketune. I wanna be the very best.
+
+![pokemon go picture](https://media.istockphoto.com/photos/man-playing-pokemon-go-with-blur-background-picture-id586745390)
+Pikachu ipsum dolor sit amet kangaskhan weedle nidoran ponyta ekans tangela kakuna seaking. Mr. Mime nidoqueen vileplume, cubone onix golbat [hitmonlee weezing](https://media.istockphoto.com/photos/man-playing-pokemon-go-with-blur-background-picture-id586745390).
 
 **Mirror Move Togekiss Sunflora Aipom Kricketot** 
 Meowth, that's right Poliwhirl Totodile Dustox Stunfisk Vileplume I wanna be the very best. Leaf Green Splash Durant Audino Nidoran Oddish Jellicent. Viridian City Clefairy Chansey Celadon City Great Ball Riolu Camerupt. Water Garchomp Mr. Mime consectetur adipisicing elit Professor Elm Accelgor Pokedex. Leaf Green Exeggcute Buizel Crustle Chatot Lopunny Anorith.
