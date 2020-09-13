@@ -18,7 +18,7 @@ We didn't learn in-depth about content management systems outside of the Hugo sy
 
 **I can manage content using established workflows.**
 
-Established workflow is not the main topic of the class this week. We did the Hugo assignments individually.
+Established workflow is not the main topic of the class this week. We did the Hugo assignments individually, but will work on our group assignments by next week. 
 
 
 **I can identify and employ technologies related to content management.**
