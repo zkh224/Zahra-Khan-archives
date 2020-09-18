@@ -4,6 +4,8 @@ title = "My New Hugo Site"
 theme = "hugo-theme-m10c-master"
 
 [params]
+  author = "Zahra Khan"
+  description = "Hello."
 [[menu.main]]
 name = "About"
 weight = 1
@@ -25,11 +27,11 @@ weight = 4
 url = "https://inspiring-kilby-bb1bde.netlify.app/walkthrough/"
 
 [params.style]
-  darkestColor = "#de007d"
-  darkColor = "#f3f8de"
-  lightColor = "#21386F"
-  lightestColor = "#470728"
-  primaryColor = "#000000"
+  darkestColor = "#d35050"
+  darkColor = "#212121"
+  primaryColor = "#ffffff"
+  lightColor = "#a2a2a2"
+  lightestColor = "#d3d3d3"
 
 [build]
 publish = "public"
