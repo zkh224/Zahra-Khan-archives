@@ -4,22 +4,22 @@ title = "My New Hugo Site"
 theme = "hugo-theme-m10c-master"
 
 [params]
-[[menu.main]]
+[[params.main]]
 name = "About"
 weight = 1
 url = "https://inspiring-kilby-bb1bde.netlify.app/introduction/"
 
-[[menu.main]]
+[[params.main]]
 name = "Annotated Definitions"
 weight = 2
 url = "https://inspiring-kilby-bb1bde.netlify.app/annotateddefinitions/"
 
-[[menu.main]]
+[[params.main]]
 name = "Resource Guide"
 weight = 3
 url = "https://inspiring-kilby-bb1bde.netlify.app/resourceguide/"
 
-[[menu.main]]
+[[params.main]]
 name = "Walkthrough"
 weight = 4
 url = "https://inspiring-kilby-bb1bde.netlify.app/walkthrough/"
