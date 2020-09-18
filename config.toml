@@ -7,8 +7,8 @@ theme = "hugo-theme-m10c-master"
   author = "Zahra Khan"
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
     
-[[params.menu.main]]
-name = "About"
+[[params.link]]
+text = "About"
 weight = 1
 url = "https://inspiring-kilby-bb1bde.netlify.app/introduction/"
 
