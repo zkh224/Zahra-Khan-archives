@@ -5,9 +5,8 @@ theme = "hugo-theme-m10c-master"
 
 [params]
   author = "Zahra Khan"
-[[params.description]]
-    name = "Introduction"
-    url = "https://inspiring-kilby-bb1bde.netlify.app/introduction"
+  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+    
 [[menu.main]]
 name = "About"
 weight = 1
@@ -30,10 +29,10 @@ url = "https://inspiring-kilby-bb1bde.netlify.app/walkthrough/"
 
 [params.style]
   darkestColor = "#d11579"
-  darkColor = "#212121"
-  primaryColor = "#FFF7A5"
+  darkColor = "#060732"
+  primaryColor = "#fff8ad"
   lightColor = "#F8F8F8"
-  lightestColor = "#CFFDD9"
+  lightestColor = "#82f69b"
 
 [build]
 publish = "public"
