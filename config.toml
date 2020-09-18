@@ -6,9 +6,8 @@ theme = "hugo-theme-m10c-master"
 [params]
   author = "Zahra Khan"
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
-  avatar = https://inspiring-kilby-bb1bde.netlify.app/painting1.jpg
     
-[param.main]
+[param.description]
 text = "About"
 weight = 1
 url = "https://inspiring-kilby-bb1bde.netlify.app/introduction/"
