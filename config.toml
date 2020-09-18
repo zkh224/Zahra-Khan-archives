@@ -1,7 +1,7 @@
 baseURL = "https://inspiring-kilby-bb1bde.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "hugo-theme-m10c-master"
 
 [params]
 [[menu.main]]
