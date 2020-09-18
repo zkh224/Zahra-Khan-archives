@@ -8,9 +8,9 @@ theme = "hugo-theme-m10c-master"
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
   
 [params.avatar]
-url = "https://inspiring-kilby-bb1bde.netlify.app/painting.jpg"
+url = "https://inspiring-kilby-bb1bde.netlify.app/painting1.jpg"
     
-[[menu.main]]
+[param.menu]
 text = "About"
 weight = 1
 url = "https://inspiring-kilby-bb1bde.netlify.app/introduction/"
