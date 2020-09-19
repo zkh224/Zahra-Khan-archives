@@ -9,7 +9,7 @@ theme = "hugo-theme-m10c-master"
 
 [[menu.main]]
 name = "About"
-weight = 1
+weight = -100
 url = "https://inspiring-kilby-bb1bde.netlify.app/introduction/"
 
 [[menu.main]]
