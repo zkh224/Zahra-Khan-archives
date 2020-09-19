@@ -1,13 +1,11 @@
 baseURL = "https://inspiring-kilby-bb1bde.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugo-theme-m10c-master"
+theme = "ananke"
 
 [params]
   author = "Zahra Khan"
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
-    
-sectionPagesMenu = "main"
 
 [[menu.main]]
 name = "About"
@@ -29,12 +27,12 @@ name = "Walkthrough"
 weight = 4
 url = "https://inspiring-kilby-bb1bde.netlify.app/walkthrough/"
 
-[params.style]
-  darkestColor = "#C2027B"
-  darkColor = "#060732"
-  primaryColor = "#fff8ad"
-  lightColor = "#F8F8F8"
-  lightestColor = "#82f69b"
+#[params.style]
+  #darkestColor = "#C2027B"
+  #darkColor = "#060732"
+  #primaryColor = "#fff8ad"
+  #lightColor = "#F8F8F8"
+  #lightestColor = "#82f69b"
 
 [build]
 publish = "public"
