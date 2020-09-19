@@ -30,9 +30,9 @@ url = "https://inspiring-kilby-bb1bde.netlify.app/walkthrough/"
 [params.style]
   darkestColor = "#C2027B"
   darkColor = "#060732"
-  primaryColor = "#fff8ad"
+  primaryColor ="#82f69b"
   lightColor = "#F8F8F8"
-  lightestColor = "#82f69b"
+  lightestColor ="#fff8ad"
 
 [build]
 publish = "public"
