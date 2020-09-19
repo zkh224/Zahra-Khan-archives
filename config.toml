@@ -6,7 +6,7 @@ theme = "hugo-theme-m10c-master"
 [params]
   author = "Zahra Khan"
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
-  avatar="/content/painting.jpg"
+  avatar="/content/elephant.jpg"
 
 [[menu.main]]
 name = "About"
