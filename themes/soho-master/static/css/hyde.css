@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: 'Roboto', 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Roboto', Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -96,7 +96,7 @@ html {
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-  text-decoration: bold;
+  text-decoration: underline;
 }
 .sidebar-nav-item.active {
   font-weight: bold;
