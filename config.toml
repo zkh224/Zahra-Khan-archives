@@ -1,6 +1,6 @@
 baseURL = "https://inspiring-kilby-bb1bde.netlify.app/"
 languageCode = "en-us"
-title = "ICT 302 Hugo Site"
+title = "ICT 302 Hugo"
 theme = "soho-master"
 
 [params]
