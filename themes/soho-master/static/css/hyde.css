@@ -190,6 +190,8 @@ footer a,
 
 .read-more-link a:hover {
   text-decoration: none;
+  background-color: #4CAF50;
+  color: white;
 }
 
 .pull-right {
