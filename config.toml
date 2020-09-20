@@ -5,7 +5,7 @@ theme = "soho-master"
 
 [params]
   author = "Zahra Khan"
-  description = "This a blog for content management class."
+  description = "This a student blog for content management class."
   profilePicture = "https://inspiring-kilby-bb1bde.netlify.app/elephant.png"
   themeColor = "#bd1167"
 
