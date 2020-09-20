@@ -5,8 +5,9 @@ theme = "soho-master"
 
 [params]
   author = "Zahra Khan"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
-  avatar= "/content/elephant.jpg"
+  description = "This a blog for content management class."
+  profilePicture = "content/elephant.jpg"
+  themeColor = "#d40f6b"
 
 [[menu.main]]
 name = "About"
