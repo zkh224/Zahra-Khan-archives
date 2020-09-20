@@ -74,7 +74,8 @@ a {
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
 a:focus {
-  text-decoration: bold;
+  text-decoration: underline;
+  font-weight: bold;
 }
 
 /* Headings */
