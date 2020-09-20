@@ -3,7 +3,7 @@ title: "Learning Report for Module 5"
 date: 2020-09-20T00:00:00-04:00
 draft: false
 ---
-My learning report for the fourth week of ICT 302 Content Management class:
+My learning report for the fifth week of ICT 302 Content Management class:
 
 **I can identify and define key concepts in (web) content management.**
 
@@ -27,4 +27,4 @@ We learned about presentation and its connection to the content. The topic focus
 
 **I can find and use resources for self-directed learning.**
 
-I used lots of self-learning when I was changing the design of my website. I had a trial and error process of adding an avatar image to my new theme. I put the image file directory in `config.toml` file based on the given instructions from the Hugo theme website. I assumed that I was required to use PNG instead of the JPG file, so I changed the directory to a small PNG image but it still didn't work. I thought the avatar image is required to be in the static folder based on an example site config file from the theme folder. I put the PNG image in the theme static folder and changed the directory address in the `config.toml` file, but that didn't work either. I then experimented with using the image link address in the file. This experimented method finally worked and the avatar image was visible on my website. I learn that experimentation with coding and repositories is sometimes required because the given instructions do not always work. 
+I used lots of self-learning when I was changing the design of my website. I had a trial and error process of adding an avatar image to my new theme. I put the image file directory in `config.toml` file based on the given instructions from the Hugo theme website. I assumed that I was required to use PNG instead of the JPG file, so I changed the directory to a small PNG image but it still didn't work. I thought the avatar image is required to be in the static folder based on the config.toml from the example website folder. I put the PNG image in the theme static folder and changed the directory address in the `config.toml` file, but that didn't work either. I then experimented with using the image link address in the file. This experimented method finally worked and the avatar image was visible on my website. I learned that experimentation with coding and repositories is sometimes required because the given instructions do not always work. 
