@@ -6,7 +6,7 @@ theme = "soho-master"
 [params]
   author = "Zahra Khan"
   description = "This a blog for content management class."
-  profilePicture = "content/elephant.jpg"
+  profilePicture = "content/elephant.png"
   themeColor = "#d40f6b"
 
 [[menu.main]]
