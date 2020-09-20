@@ -1,7 +1,7 @@
 baseURL = "https://inspiring-kilby-bb1bde.netlify.app/"
 languageCode = "en-us"
 title = "ICT 302 Hugo Site"
-theme = "hugo-theme-m10c-master"
+theme = "soho-master"
 
 [params]
   author = "Zahra Khan"
