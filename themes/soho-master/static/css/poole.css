@@ -188,8 +188,8 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: #a84386;
-  border-left: .25rem solid #ccabbc;
+  color: #f02288;
+  border-left: .35rem solid #d6bfcb;
 }
 blockquote p:last-child {
   margin-bottom: 0;
