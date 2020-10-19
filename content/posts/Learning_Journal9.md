@@ -1,6 +1,6 @@
 ---
 title: "Learning Report for Module 9"
-date: 2020-18-11T00:00:00-04:00
+date: 2020-17-11T00:00:00-04:00
 draft: false
 ---
 My learning report for the ninth week of ICT 302 Content Management class:
