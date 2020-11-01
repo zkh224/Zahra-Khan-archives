@@ -17,8 +17,7 @@ I identified content aggression types in WordPress and Hugo CMS platforms. They 
 
 **I can manage content using established workflows.**
 
-Our blog post workflow went smoothly, but not for the Omeka task. I think the reason why there are challenges in exploring Omeka together as a group because the extra assignment is new to us. We ended up working on the extra project at our times then we later discussed what we found in the Omeka platform. 
-
+Our blog post workflow went smoothly, but not for the Omeka task. I think the reason why there are challenges in exploring Omeka together as a group because the extra assignment is new to us. We ended up working on the Omeka task at our individual times. We planned to discuss together about what we found in Omeka afterwards. I hope our workflow of doing extra assignments would be smoother next time. 
 
 **I can identify and employ technologies related to content management.**
 
