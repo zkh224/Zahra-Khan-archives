@@ -17,7 +17,9 @@ For this week, we didn't compare different kinds of content management systems.
 
 **I can manage content using established workflows.**
 
-I was taking the administrator role for this week's blogpost. I monitor my group's workflow and make sure there is work progress. I communicate with the team members individually about their tasks. My role involves creating an efficient workflow for a good outcome. We also participated in the workflow when installing a WordPress widget on the website. We explored the WordPress widget options during the Zoom meeting and pick the one that would be most functional for the class website. We choose the calendar widget because it is easy to find the blog posts from a certain date. 
+I was taking the administrator role for this week's blogpost. I monitor my group's workflow and make sure there is work progress. I communicate with the team members individually about their tasks. My role involves creating an efficient workflow for a good outcome.
+
+We also participated in the workflow when installing a WordPress widget on the website. We explored the WordPress widget options during the Zoom meeting and pick the one that would be most functional for the class website. We choose the calendar widget because it is easy to find the blog posts from a certain date. 
 
 **I can identify and employ technologies related to content management.**
 
