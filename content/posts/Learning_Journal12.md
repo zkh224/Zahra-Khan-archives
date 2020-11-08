@@ -1,29 +1,29 @@
 ---
 title: "Learning Report for Module 12"
-date: 2020-11-01T00:00:00-04:00
-draft: true
+date: 2020-11-08T00:00:00-04:00
+draft: false
 ---
-My learning report for the eleventh week of ICT 302 Content Management class:
+My learning report for the twelfth  week of ICT 302 Content Management class:
 
 **I can identify and define key concepts in (web) content management.**
 
-For this week we learned about the CMS topic of content aggregation. I learned about different shapes of content aggregation which impacts the relationships between different contents. For example, serial content is a user-friendly content aggregation for mobile design because users can scroll down continuously. The dominant content aggression used in a platform is called content geography.  
+We learned about using plugins and other forms of extensions for the WordPress site. There are pros and cons to using these applications. The biggest advantage of extending the CMS is having the ability to customize the website for front-end and back-end for our advantage. However, the biggest drawback is the security vulnerability. It is important to choose a WordPress plug-in or other extension that would benefit our needs without sacrificing security.   
 
 
 **I can describe and compare content management systems.**
 
-I identified content aggression types in WordPress and Hugo CMS platforms. They have different content geographies in their back-end editing system. Hugo has hierarchal content aggregation because of their repository system of "branches" and "folders", representing strong hierarchy relationships. WordPress on the other hand has serial content aggression because their editing options are organized into lists even the Media page. 
+For this week, we didn't compare different kinds of content management systems.  
 
 
 **I can manage content using established workflows.**
 
-Our blog post workflow went smoothly, but not for the Omeka task. I think the reason why there are challenges in exploring Omeka together as a group because the extra assignment is new to us. We ended up working on the Omeka task at our individual times. We planned to discuss together about what we found in Omeka afterwards. I hope our workflow of doing extra assignments would be smoother next time. 
+I was taking the administrator role for this week's blogpost. I monitor my group's workflow and make sure there is work progress. I communicate with the team members individually about their tasks. My role involves creating an efficient workflow for a good outcome. We also participated in the workflow when installing a WordPress widget on the website. We explored the WordPress widget options during the Zoom meeting and pick the one that would be most functional for the class website. We choose the calendar widget because it is easy to find the blog posts from a certain date. 
 
 **I can identify and employ technologies related to content management.**
 
-I can identify the features in the Omeka CMS. I learned that the purpose of Omeka is displaying collections like the museum art gallery. I added an item of the ancient Egyptian art in Omeka where I learned to add attributions like title, source, date, type, and other information. 
+I can identify different kinds of plug-ins and extensions offered by CMSs. Some are used for the visual web design and other front-end aspects while others are used for the back-end like the SEO tools. I can differentiate between a plug-in and a widget because of the explore and the extra project assignment. 
 
 
 **I can find and use resources for self-directed learning.**
 
- When I first logged in to Omeka, I do not know what to do with the new CMS so I went to the Omeka beginner tutorials on YouTube. After watching these tutorials, I added the first item based on the instructions I know. I have successfully added an item and collection in Omeka, but the thumbnail image wasn't showing right. I researched about that problem in the [Omeka Support Group](https://forum.omeka.org/t/show-thumbnails-on-items/5975) and found out it had to do with the admin configurations. I do not have access to the admin configurations to fix the thumbnail, but at least I gained basic knowledge of using Omeka CMS. 
+ I use my self-learning time in exploring different kinds of WordPress plug-ins. I chose two plug-ins that I find most useful and interesting for the explore assignment. During my exploration, I read about the functionality of the plug-ins and the demo process. I have also looked into possible security vulnerabilities.  Researching about the plug-ins have helped me to understand my needs if I am running a website. 
