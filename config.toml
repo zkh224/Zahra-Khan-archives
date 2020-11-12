@@ -30,8 +30,8 @@ weight = 4
 url = "https://inspiring-kilby-bb1bde.netlify.app/walkthrough/"
 
 [[menu.main]]
-name = "Jitsi Meet Testing"
-weight = 4
+name = "Testing"
+weight = 5
 url = "https://inspiring-kilby-bb1bde.netlify.app/testing/"
 
 [params.style]
