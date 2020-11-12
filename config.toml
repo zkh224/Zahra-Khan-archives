@@ -29,6 +29,11 @@ name = "Walkthrough"
 weight = 4
 url = "https://inspiring-kilby-bb1bde.netlify.app/walkthrough/"
 
+[[menu.main]]
+name = "Jitsi Meet Testing"
+weight = 4
+url = "https://inspiring-kilby-bb1bde.netlify.app/testing/"
+
 [params.style]
   darkestColor = "#C2027B"
   darkColor = "#060732"
