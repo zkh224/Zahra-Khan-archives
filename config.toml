@@ -2,44 +2,98 @@ baseURL = "https://inspiring-kilby-bb1bde.netlify.app/"
 languageCode = "en-us"
 title = "Zahra Khan"
 theme = "personal-web-master"
+copyright="© Zahra Khan"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Hi, I'm Zahra :wave:"
+  sub = "I'm a Web Developer and Entrepreneur"
+
+[params.main]
+  latestPublishHeader = "My Latest Project"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
 
 [params]
-  author = "Zahra Khan"
-  description = "This a student blog for content management class."
-  profilePicture = "https://inspiring-kilby-bb1bde.netlify.app/elephant.png"
-  themeColor = "#bd1167"
+  breadcrumb = true
+  accentColor = "#FD3519"
+  mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
+
+[params.notFound]
+  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  h1 = 'Bummer!'
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  # Define how your sections will be called
+  # when automatically pulled. For instance in the 404 page
+  post = "article"
+  portfolio = "project"
+
+[params.sidebar]
+  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "" # - default "/images/edna-west.jpg"
+[params.assets]
+  favicon = ""
+  customCSS = ""
+
+[params.social]
+  github = "https://github.com/"
+  linkedin = "https://www.linkedin.com/in/"
+
+[params.contact]
+  email = ""
+  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+
+
+[menu]
 
 [[menu.main]]
-name = "About"
-weight = 1
-url = "https://inspiring-kilby-bb1bde.netlify.app/introduction/"
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
 
 [[menu.main]]
-name = "Annotated Definitions"
-weight = 2
-url = "https://inspiring-kilby-bb1bde.netlify.app/annotateddefinitions/"
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -110
 
 [[menu.main]]
-name = "Resource Guide"
-weight = 3
-url = "https://inspiring-kilby-bb1bde.netlify.app/resourceguide/"
+  identifier = "blog"
+  name = "Post"
+  title = "Blog section"
+  url = "/post/"
+  weight = -100
 
-[[menu.main]]
-name = "Walkthrough"
-weight = 4
-url = "https://inspiring-kilby-bb1bde.netlify.app/walkthrough/"
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
 
-[[menu.main]]
-name = "Testing"
-weight = 5
-url = "https://inspiring-kilby-bb1bde.netlify.app/testing/"
-
-[params.style]
-  darkestColor = "#C2027B"
-  darkColor = "#060732"
-  primaryColor ="#82f69b"
-  lightColor = "#F8F8F8"
-  lightestColor ="#fff8ad"
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
 
 [build]
 publish = "public"
