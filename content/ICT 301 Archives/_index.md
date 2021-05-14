@@ -1,6 +1,6 @@
 ---
-title: POST
-description: 'Posts Section'
+title: ICT 301 Archives
+description: 'Archives Section'
 ---
 
-You'll add here a general introduction of your posts.
+The learning report archives from ICT 301 Content Management System class from Fall 2020 semester.
