@@ -1,20 +1,15 @@
 ---
-title: Fyrinnae Cosmmetics Prototype
+title: Fyrinnae Cosmetics Prototype
 description: Figma prototype of the beauty website
 date: "2021-05-05T19:47:09+02:00"
 jobDate: 2021
-work: [design, architecture]
-techs: [javascript, D3]
+work: [design]
+techs: [Figma]
 designs: [Figma]
 thumbnail: sample-project/sample.jpg
-projectUrl: https://www.sampleorganization.org
+projectUrl: https://www.figma.com/proto/bQi1UXHaZYROco9VunslyD/Fyrinnae-Cosmetics-IA?node-id=109%3A2595&scaling=min-zoom
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
+I created the first prototype for ICT 320 Information Architecture class using Figma. The redesign of the website is based on Fyrinnae Cosmetics website, an indie beauty brand known for the multichrome eyeshadows. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In this prototype, there are the following three pages: homepage, category page, and product page. The navigational links are limited due to containing only three pages, but I have added the links on where the webpage are directed to. The images used in Figma prototype are from Fyrinnae Cosmetics website and Unsplash. 
