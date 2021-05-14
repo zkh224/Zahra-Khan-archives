@@ -80,7 +80,7 @@ pygmentsCodeFences=true
   weight = -100
   
   [[menu.main]]
-  identifier = "ICT 301 Archives"
+  identifier = "archives"
   name = "ICT 301 Archives"
   title = "Archives section"
   url = "/archives/"
