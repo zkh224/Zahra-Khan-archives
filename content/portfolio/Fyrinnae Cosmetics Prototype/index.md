@@ -6,7 +6,7 @@ jobDate: 2021
 work: [design]
 techs: [Figma]
 designs: [Figma]
-thumbnail: sample-project/sample.jpg
+thumbnail: fyrinnae-cosmetics-prototype/the-homepage.jpg
 projectUrl: https://www.figma.com/proto/bQi1UXHaZYROco9VunslyD/Fyrinnae-Cosmetics-IA?node-id=109%3A2595&scaling=min-zoom
 ---
 
