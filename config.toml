@@ -1,7 +1,7 @@
 baseURL = "https://inspiring-kilby-bb1bde.netlify.app/"
 languageCode = "en-us"
 title = "Zahra Khan"
-theme = "soho-master"
+theme = "personal-web-master"
 
 [params]
   author = "Zahra Khan"
