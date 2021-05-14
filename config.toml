@@ -78,6 +78,13 @@ pygmentsCodeFences=true
   title = "Blog section"
   url = "/post/"
   weight = -100
+  
+  [[menu.main]]
+  identifier = "ICT 301 Archives"
+  name = "ICT 301 Archives"
+  title = "Archives section"
+  url = "/archives/"
+  weight = -100
 
 [sitemap]
   changefreq = "monthly"
