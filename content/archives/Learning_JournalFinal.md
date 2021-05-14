@@ -2,6 +2,7 @@
 title: "Final Learning Report for the Semester"
 date: 2020-12-02T00:00:00-04:00
 draft: false
+publishDate: "2020-12-02T00:00:00-04:00"
 ---
 This is my final post, reflecting on what I have learned from the classs. My learning report for the whole semester of ICT 302 Content Management class:
 
