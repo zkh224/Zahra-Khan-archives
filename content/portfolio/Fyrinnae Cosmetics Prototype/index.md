@@ -1,11 +1,11 @@
 ---
-title: Sample project
-description: This is the description of our sample project
+title: Fyrinnae Cosmmetics Prototype
+description: Figma prototype of the beauty website
 date: "2021-05-05T19:47:09+02:00"
 jobDate: 2021
 work: [design, architecture]
 techs: [javascript, D3]
-designs: [Photoshop]
+designs: [Figma]
 thumbnail: sample-project/sample.jpg
 projectUrl: https://www.sampleorganization.org
 ---
