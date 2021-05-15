@@ -6,7 +6,7 @@ jobDate: 2021
 work: [web design]
 techs: [WordPress]
 designs: [Elementor, WordPress]
-thumbnail: haira-website/haira.jpg
+thumbnail: haira-website/haira.png
 projectUrl: https://haira.clir.org/
 ---
 
