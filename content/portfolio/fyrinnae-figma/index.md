@@ -3,7 +3,7 @@ title: Fyrinnae Cosmetics Prototype
 description: Figma prototype of the beauty website
 date: "2021-05-05T19:47:09+02:00"
 jobDate: 2021
-work: [design]
+work: [prototype]
 techs: [Figma]
 designs: [Figma]
 thumbnail: fyrinnae-figma/homepage.jpg
