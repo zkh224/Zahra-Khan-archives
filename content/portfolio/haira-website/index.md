@@ -1,25 +1,15 @@
 ---
-title: Sample project
-description: This is the description of our sample project
-date: "2019-05-02T19:47:09+02:00"
-jobDate: 2019
-work: [design, architecture]
-techs: [javascript, D3]
-designs: [Photoshop]
-thumbnail: sample-project/sample.jpg
-projectUrl: https://www.sampleorganization.org
-testimonial:
-  name: John Doe
-  role: CEO @Example
-  image: sample-project/john.jpg
-  text: Prow scuttle parrel provost Sail ho shrouds spirits boom mizzenmast yardarm. Pinnace holystone mizzenmast quarter crow's nest nipperkin
+title: Hub of AI Research in Archives Website
+description: The responsive web design of HAIRA website
+date: "2019-05-07T19:47:09+02:00"
+jobDate: 2021
+work: [web design]
+techs: [WordPress]
+designs: [Elementor, WordPress]
+thumbnail: haira-website/haira.jpg
+projectUrl: https://haira.clir.org/
 ---
 
-This would be a description of your sample project. You can add any content you'd like.
+I build this website as my freelance work for [Council of Libary & Information Resource 's](https://www.clir.org/) new research and educational center, [Hub of AI Research in Archives Website](https://haira.clir.org/).
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I designed this website from scratch using the combination of WordPress and Elementor. Responsive design and accessibility are the main apprached I took into consideration while desining HAIRA website. I managed the WordPress CMS based on the organization's needs such as using LMS and SEO plugins to make the website functional. 
