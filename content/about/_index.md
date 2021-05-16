@@ -7,7 +7,7 @@ images: ["/images/me.jpg"]
 
 **Hi! My name is Zahra Khan and I am a recent graduate in Information Communication Technology from University of Kentucky.** My degree specializes in Technology Management where I have strong background in databases, content management system, website design, and information architecture. I plan to pursue in web development with the focus on frontend and UX design. 
 
-My MAIN SKILLS
+**My MAIN SKILLS**
 * HTML
 * CSS
 * Javascript
