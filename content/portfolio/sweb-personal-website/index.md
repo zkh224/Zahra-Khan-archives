@@ -1,5 +1,5 @@
 ---
-title: Exploring Hittite Civilization
+title: Personal Website
 description: The school web design project for creating a WordPress website
 date: "2020-11-29T19:47:09+02:00"
 jobDate: 2020
