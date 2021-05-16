@@ -1,7 +1,7 @@
 ---
 title: Hub of AI Research in Archives Website
 description: The responsive web design of HAIRA website
-date: "2019-05-07T19:47:09+02:00"
+date: "2021-05-07T19:47:09+02:00"
 jobDate: 2021
 work: [web design]
 techs: [WordPress]
