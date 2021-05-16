@@ -46,7 +46,7 @@ pygmentsCodeFences=true
   
 [params.assets]
   favicon = ""
-  customCSS = "font-family:Arial;"
+  customCSS = ""
 
 [params.social]
   github = "https://github.com/zkh224"
@@ -54,7 +54,7 @@ pygmentsCodeFences=true
 
 [params.contact]
   email = "zahra.khan@uky.edu"
-  text= "Email: zahra.khan@uky.edu" # text of the contact link in the sidebar. If email params.contact.email is defined
+  text= "zahra.khan@uky.edu" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
