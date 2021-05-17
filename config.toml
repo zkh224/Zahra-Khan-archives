@@ -53,8 +53,8 @@ pygmentsCodeFences=true
   linkedin = "https://www.linkedin.com/in/zahra-khan-91963a186/"
 
 [params.contact]
-  email = "zahra.khan@uky.edu"
-  text= "zahra.khan@uky.edu" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = ""
+  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
