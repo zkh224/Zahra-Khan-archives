@@ -1,6 +1,6 @@
 ---
-title: Hub of AI Research in Archives Website
-description: The responsive web design of HAIRA website
+title: Petate Website
+description: The informational website for the Latinx community in Lexington
 date: "2021-08-15T19:47:09+02:00"
 jobDate: 2021
 work: [web design, frontend]
