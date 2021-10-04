@@ -1,13 +1,26 @@
 baseURL = "https://zahrakhan.netlify.app/"
 languageCode = "en-us"
 title = "Zahra Khan"
-theme = "personal-web-master"
+theme = "hugo-developer-portfolio"
 copyright="© Zahra Khan"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
 
 [params.intro]
   main = "Hi, I'm Zahra :wave:"
