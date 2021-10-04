@@ -9,7 +9,7 @@ googleAnalytics = ""
 
 [module]
   [[module.imports]]
-    path = "github.com/samrobbins85/hugo-developer-portfolio"
+    path = "github.com/zkh224/Zahra-Khan"
 
 # Plugins
 [params.plugins]
