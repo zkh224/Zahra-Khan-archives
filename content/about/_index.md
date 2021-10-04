@@ -1,20 +1,13 @@
 ---
-title: ABOUT
-description: Hello, I'm Zahra Khan
-images: ["/images/me.jpg"]
+title: "About"
+date: 2019-05-12T12:14:34+06:00
+description: "This is meta description."
+author : "Sam Robbins"
+authorImage : "images/about/profile.jpg"
 ---
 
+Hi! I'm Sam, a second year Computer Science student from Durham University. 
+I like doing personal projects, which you will find in the portfolio page of this website. 
+My specialties can be found on the homepage, of which most are web development or cyber security.
 
-**Hi! My name is Zahra Khan and I am a recent graduate in Information Communication Technology from University of Kentucky.** My degree specializes in Technology Management where I have strong background in databases, content management system, website design, and information architecture. I plan to pursue in web development with the focus on frontend and UX design. 
-
-**My MAIN SKILLS**
-* HTML
-* CSS
-* Javascript
-* Figma
-* CMS (WordPress, Wix, and GoDaddy)
-* GitHub
-* PHP
-* mySQL
-
-My recent experiance is the freelance work on setting up and designing the WordPress website for research organization. I also have internship experiance in website administration from FlowCell. I am currently learning React during my spare time to further increase my frontend skill. In addition, I can work with Adobe Photoshop, HubSpot, and Excel. 
+I am currently available for part time remote work, but will be looking for full time employment from summer 2021.
