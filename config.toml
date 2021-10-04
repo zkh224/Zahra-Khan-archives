@@ -1,8 +1,8 @@
-baseURL = "http://zahrakhan.netlify.app/"
+baseURL = "https://zahrakhan.netlify.app/"
 languageCode = "en-us"
 title = "Zahra Khan"
 description = "Web Developer | Designer"
-theme = "hugo-developer-portfolio"
+theme = "ananke"
 disqusShortname = ""
 googleAnalytics = ""
 #ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
